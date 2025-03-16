@@ -3,20 +3,20 @@
 - It's designed for practice with object-oriented programming (OOP) concepts such as classes, methods, and object interaction.
   
 🚀 How It Works
-Customer Class
+1. Customer Class
 - Represents a customer with a name and email.
 - Can purchase products from the inventory.
-- 
-Product Class
+ 
+2. Product Class
 - Represents a product with a name and price.
   
-Inventory Class
+3. Inventory Class
 - Stores available products and their quantities.
 - Allows adding new products and updating stock.
-
+-
 
 🎯 Purpose
-This project helps practice OOP concepts in Python, including working with classes and objects. 😎
+- This project helps practice OOP concepts in Python, including working with classes and objects. 😎
 
 
 
