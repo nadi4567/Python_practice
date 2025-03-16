@@ -1,5 +1,7 @@
 📌 Python Customer Inventory System
-This is a simple Python program that simulates a customer purchasing products from an inventory. It's designed for practice with object-oriented programming (OOP) concepts such as classes, methods, and object interaction.
+- This is a simple Python program that simulates a customer purchasing products from an inventory.
+- It's designed for practice with object-oriented programming (OOP) concepts such as classes, methods, and object interaction.
+  
 🚀 How It Works
 Customer Class
 - Represents a customer with a name and email.
